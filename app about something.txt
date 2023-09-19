@@ -1,0 +1,1 @@
+here we use material ui and this app like a social app No responsive
